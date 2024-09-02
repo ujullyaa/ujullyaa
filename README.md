@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: WhatsApp, Instagram, Gmail, Telegram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I spend the whole day on my laptop
+- ⚡ Fun fact: I spend the whole day on my laptop 
 
 <!---
 ujullyaa/ujullyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

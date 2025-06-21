@@ -7,26 +7,9 @@
 - 📫 Contate-me no email: jullyaestelita1958@gmail.com
 - 😄 Pronouns: ela/dela
 
-## ♦ Ferramentas
+#
 
-<img width="300"
-  src="https://skillicons.dev/icons?i=html,js,ts,react,vite,figma" />
-  <br />
-  <img width="200"
-  src="https://skillicons.dev/icons?i=python,mongodb,git,github" />
-
-## ♦ My GitHub Stats
-
-<div>
- <div display: inline_block>
-  <a href = "https://github.com/ujullyaa">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ujullyaa&show_icons=true&theme=jolly">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujullyaa&layout=compact&theme=jolly"> 
-  </div>
-</div>
-
-## ♦ Let's Connect!
-
+<h3 align="left">Connect with me!</h3>
 
 <div>
   <a href="https://www.instagram.com/_ujullyaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,9 +20,32 @@
 
 </div>
 
+
+## ♦ Ferramentas
+
+<img width="300"
+  src="https://skillicons.dev/icons?i=html,js,ts,react,vite,figma" />
+  <br />
+  <img width="200"
+  src="https://skillicons.dev/icons?i=python,mongodb,git,github" />
+
+ #
+  
+  <h3>* GitHub Stats *</h3>
+
+<div>
+ <div display: inline_block>
+  <a href = "https://github.com/ujullyaa">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ujullyaa&show_icons=true&theme=jolly">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujullyaa&layout=compact&theme=jolly"> 
+  </div>
+</div>
+
+
  <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ujullyaa/ujullyaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ujullyaa/ujullyaa/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ujullyaa/ujullyaa/output/github-contribution-grid-snake.svg">
 </picture>
+
 

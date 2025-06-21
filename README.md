@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Júllya!Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-- 🔭 Trabalho com robotica adaptativa com IA 
-- 🌱 Estudando Javascript e Typescript
-- 😄 Pronouns: ela/dela
+#
+
+<p align="center">Estudante de Sistemas de Informação na Universiade Federa de Santa Catarina. Atualmente trabalho com Robotica Adaptativa com IA.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
 

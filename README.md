@@ -4,13 +4,11 @@
 
 - 🔭 Trabalho com robotica adaptativa com IA 
 - 🌱 Estudando Javascript e Typescript
-- 📫 Contate-me no email: jullyaestelita1958@gmail.com
 - 😄 Pronouns: ela/dela
 
 #
 
 ![download (2)](https://github.com/user-attachments/assets/68afdcb2-3609-427a-ab0b-c0a36b512f15)
-
 
 <h3 align="left">Connect with me!</h3>
 

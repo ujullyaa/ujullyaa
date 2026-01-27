@@ -1,15 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&dracula=5e32a8&height=120&section=header"/>
+<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<br>
+<br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Júllya!Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 #
 
-<p align="center">Estudante de Sistemas de Informação na Universiade Federa de Santa Catarina. Atualmente trabalho com Robotica Adaptativa com IA.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Sistemas de Informação na Universidade Federal de Santa Catarina. Atualmente atuo como estagiária em Suporte de TI, bolsista em Desenvolvimento Web e voluntária na área de Banco de Dados. Estou em constante aprendizado, buscando aprimorar meus conhecimentos e enfrentar novos desafios na área de tecnologia, com foco em aplicar a prática no desenvolvimento de soluções eficientes.
 
 #
 
-![download (2)](https://github.com/user-attachments/assets/68afdcb2-3609-427a-ab0b-c0a36b512f15)
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<br><br>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -31,25 +33,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="200"
   src="https://skillicons.dev/icons?i=python,mongodb,git,github" />
 
- #
- <!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-</picture>
- 
-
- 
  #
   
   <h3>* GitHub Stats *</h3>
